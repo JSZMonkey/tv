@@ -112,8 +112,6 @@
             "filterable": 1,
             "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;dcb6586dbc1bc190dfd40576da25b564"
         },
-       
-     
         {
             "key": "南瓜影视",
             "name": "南瓜影视",
@@ -146,15 +144,6 @@
             "name": "追剧影视",
             "type": 3,
             "api": "csp_AppZJ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "低端影视",
-            "name": "低端影视",
-            "type": 3,
-            "api": "csp_Ddys",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
