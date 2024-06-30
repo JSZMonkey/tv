@@ -49,19 +49,7 @@
             },
             "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;dcb6586dbc1bc190dfd40576da25b564"
         },
-        {
-            "key": "厂长弹幕",
-            "name": "厂长弹幕",
-            "type": 3,
-            "api": "csp_Czzy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;dcb6586dbc1bc190dfd40576da25b564"
-        },
+
         {
             "key": "天天弹幕",
             "name": "天天弹幕",
@@ -89,36 +77,10 @@
             "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;dcb6586dbc1bc190dfd40576da25b564"
         },
         {
-            "key": "机器人弹幕",
-            "name": "机器人弹幕",
-            "type": 3,
-            "api": "csp_Ikanbot",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;dcb6586dbc1bc190dfd40576da25b564"
-        },
-        {
             "key": "小苹果弹幕",
             "name": "小苹果弹幕",
             "type": 3,
             "api": "csp_Xpg",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;dcb6586dbc1bc190dfd40576da25b564"
-        },
-        {
-            "key": "一起看弹幕",
-            "name": "一起看弹幕",
-            "type": 3,
-            "api": "csp_Yqk",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -150,25 +112,8 @@
             "filterable": 1,
             "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;dcb6586dbc1bc190dfd40576da25b564"
         },
-        {
-            "key": "无忧短剧",
-            "name": "无忧短剧",
-            "type": 3,
-            "api": "csp_Duanj",
-            "searchable": 1,
-            "changeable": 0,
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;dcb6586dbc1bc190dfd40576da25b564"
-        },
-        {
-            "key": "采集之王",
-            "name": "采集之王",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "order_num": 142,
-            "ext": "./JS/采集之王.js?type=url&params=./JSON/采集静态.json"
-        },
+       
+     
         {
             "key": "南瓜影视",
             "name": "南瓜影视",
@@ -213,7 +158,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://www.czys.pro/"
+            "ext": "https://www.czzy77.com/"
         },
         {
             "key": "低端影视",
