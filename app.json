@@ -155,7 +155,7 @@
     },
     {
       "key": "csp_CZSPP",
-      "name": "厂长┃直连",
+      "name": "厂长",
       "type": 3,
       "api": "csp_Czsapp",
       "searchable": 1,
@@ -164,7 +164,6 @@
       "filterable": 0,
       "ext": "https://czzy.top/"
     },
-    {"key":"厂长","name":"主线","type":3,"api":"csp_NewCz","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://czzy.top/"},
     {
       "key": "csp_Auete",
       "name": "Auete┃无搜索",
