@@ -370,7 +370,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://fanmingming.com/txt?url=https://mirror.ghproxy.com/https://raw.githubusercontent.com/JSZMonkey/tv/main/iptv.m3u",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/JSZMonkey/tv/main/iptv.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
