@@ -24,13 +24,13 @@
 "sites":[
     {
       "key": "Dygang",
-      "name": "主站",
+      "name": "影视仓[边下边播]",
       "type": 3,
       "api": "csp_Dygang"
     },
     {
       "key": "南瓜",
-      "name": "南瓜┃App",
+      "name": "影视仓[南瓜]",
       "type": 3,
       "api": "csp_NanGua",
       "searchable": 1,
@@ -41,7 +41,7 @@
     },
     {
       "key": "天天",
-      "name": "天天┃App",
+      "name": "影视仓[天天]",
       "type": 3,
       "api": "csp_TTian",
       "playerType": 2,
@@ -49,7 +49,7 @@
     },
     {
       "key": "热播",
-      "name": "热播┃App",
+      "name": "影视仓[热播]",
       "type": 3,
       "api": "csp_TTian",
       "playerType": 2,
@@ -57,7 +57,7 @@
     },
     {
       "key": "追剧",
-      "name": "追剧┃App",
+      "name": "影视仓[追剧]",
       "type": 3,
       "api": "csp_TTian",
       "playerType": 2,
@@ -65,21 +65,21 @@
     },
     {
       "key": "雷电",
-      "name": "雷电┃App",
+      "name": "影视仓[雷电]",
       "type": 3,
       "api": "csp_Slys",
       "playerType": 2
     },
     {
       "key": "发电",
-      "name": "发电┃App",
+      "name": "影视仓[发电]",
       "type": 3,
       "api": "csp_Fdys",
       "playerType": 2
     },
     {
       "key": "柠檬",
-      "name": "柠檬┃App",
+      "name": "影视仓[柠檬]",
       "type": 3,
       "api": "csp_Nmvod",
       "playerType": 2,
@@ -87,14 +87,14 @@
     },
     {
       "key": "月亮",
-      "name": "月亮┃App",
+      "name": "影视仓[月亮]",
       "type": 3,
       "api": "csp_Ylys",
       "playerType": 2
     },
     {
       "key": "鸣人",
-      "name": "鸣人┃直连",
+      "name": "影视仓[鸣人]",
       "type": 1,
       "api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -104,7 +104,7 @@
     },
     {
       "key": "看看",
-      "name": "看看",
+      "name": "影视仓[看看]",
       "type": 3,
       "api": "csp_KanKan",
       "searchable": 1,
@@ -113,7 +113,7 @@
     },
     {
       "key": "Bdys_spider",
-      "name": "哔滴",
+      "name": "影视仓[哔滴]",
       "api": "csp_Bdys01",
       "type": 3,
       "filterable": 1,
@@ -124,7 +124,7 @@
 
     {
       "key": "快看",
-      "name": "快看",
+      "name": "影视仓[快看]",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
@@ -134,7 +134,7 @@
     },
     {
       "key": "360_spider",
-      "name": "360",
+      "name": "影视仓[360]",
       "api": "csp_SP360",
       "type": 3,
       "filterable": 1,
@@ -145,7 +145,7 @@
     },
     {
       "key": "ZXZJ",
-      "name": "在线",
+      "name": "影视仓[在线]",
       "api": "csp_Zxzj",
       "type": 3,
       "filterable": 1,
@@ -155,7 +155,7 @@
     },
     {
       "key": "csp_CZSPP",
-      "name": "厂长",
+      "name": "影视仓[厂长]",
       "type": 3,
       "api": "csp_Czsapp",
       "searchable": 1,
@@ -166,33 +166,13 @@
     },
     {
       "key": "csp_Auete",
-      "name": "Auete┃无搜索",
+      "name": "影视仓[Auete]",
       "type": 3,
       "api": "csp_Auete",
       "searchable": 1,
       "playerType": 2,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "NoSearch_csp_BBB",
-      "name": "哔哩哔哩",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://www.qiaoji8.com/tvbox/bili.json"
-    },
-    {
-      "key": "push_agent",
-      "name": "推送",
-      "type": 3,
-      "api": "csp_PushAgent",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://www.qiaoji8.com/jar1/token.txt"
     }
   ],
   "parses": [
