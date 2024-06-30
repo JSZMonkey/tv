@@ -25,7 +25,7 @@
 "sites":[
         {
             "key": "愉悦影视",
-            "name": "愉悦影视",
+            "name": "影视仓",
             "type": 3,
             "api": "csp_Wexyuyueys",
             "searchable": 1,
