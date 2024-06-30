@@ -86,26 +86,6 @@
       "playerType": 2
     },
     {
-      "key": "看看",
-      "name": "影视仓[看看]",
-      "type": 3,
-      "api": "csp_KanKan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Bdys_spider",
-      "name": "影视仓[哔滴]",
-      "api": "csp_Bdys01",
-      "type": 3,
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1,
-      "ext": ""
-    },
-
-    {
       "key": "快看",
       "name": "影视仓[快看]",
       "type": 3,
