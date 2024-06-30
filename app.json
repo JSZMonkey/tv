@@ -3,7 +3,7 @@
   "sites": [
     {
       "key": "豆豆",
-      "name": "🌕全接口智能过滤广告",
+      "name": "全接口",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -22,7 +22,7 @@
     },
     {
       "key": "酷看",
-      "name": "💡酷看┃秒播",
+      "name": "酷看",
       "type": 3,
       "api": "csp_Kkys",
       "timeout": 15,
@@ -32,7 +32,7 @@
     },
     {
       "key": "Lib",
-      "name": "🌟立播┃秒播",
+      "name": "立播",
       "type": 3,
       "api": "csp_Libvio",
       "searchable": 1,
@@ -45,7 +45,7 @@
     },
     {
       "key": "Zx4k",
-      "name": "🚝专线┃秒播",
+      "name": "专线",
       "type": 3,
       "api": "csp_Zx4k",
       "timeout": 15,
@@ -56,7 +56,7 @@
     },
     {
       "key": "文采",
-      "name": "💮文采┃秒播",
+      "name": "文采",
       "type": 3,
       "api": "csp_Jpys",
       "playerType": 2,
@@ -66,7 +66,7 @@
     },
     {
       "key": "比特",
-      "name": "🍄比特┃秒播",
+      "name": "比特",
       "type": 3,
       "api": "csp_Bttwoo",
       "searchable": 1,
@@ -75,7 +75,7 @@
     },
     {
       "key": "原创",
-      "name": "☀原创┃不卡",
+      "name": "原创",
       "type": 3,
       "api": "csp_YCyz",
       "timeout": 15,
@@ -86,7 +86,7 @@
     },
     {
       "key": "苹果",
-      "name": "🍎苹果┃不卡",
+      "name": "苹果",
       "type": 3,
       "api": "csp_LiteApple",
       "searchable": 1,
@@ -95,7 +95,7 @@
     },
     {
       "key": "厂长",
-      "name": "📔厂长┃不卡",
+      "name": "厂长",
       "type": 3,
       "api": "csp_NewCz",
       "timeout": 15,
@@ -107,7 +107,7 @@
     },
     {
       "key": "视觉",
-      "name": "👓视觉┃多线",
+      "name": "视觉",
       "type": 3,
       "api": "csp_Xinsj",
       "timeout": 15,
@@ -118,7 +118,7 @@
     },
     {
       "key": "蛋蛋",
-      "name": "🍓蛋蛋┃多线",
+      "name": "蛋蛋",
       "type": 3,
       "api": "csp_Cddys",
       "timeout": 15,
@@ -129,7 +129,7 @@
     },
     {
       "key": "可可",
-      "name": "👻可可┃多线",
+      "name": "可可",
       "type": 3,
       "api": "csp_Kekys",
       "timeout": 15,
@@ -140,7 +140,7 @@
     },
     {
       "key": "小点",
-      "name": "💥小点┃多线",
+      "name": "小点",
       "type": 3,
       "api": "csp_Xdys",
       "searchable": 1,
@@ -150,7 +150,7 @@
     },
     {
       "key": "热播",
-      "name": "📺热播┃多线",
+      "name": "热播",
       "type": 3,
       "api": "csp_AppTT",
       "timeout": 15,
@@ -162,7 +162,7 @@
     },
     {
       "key": "萌米",
-      "name": "👀萌米┃多线",
+      "name": "萌米",
       "type": 3,
       "api": "csp_AppTT",
       "timeout": 15,
@@ -171,7 +171,7 @@
     },
     {
       "key": "南瓜",
-      "name": "🎃南瓜┃多线",
+      "name": "南瓜",
       "type": 3,
       "api": "csp_NanGua",
       "timeout": 15,
@@ -182,7 +182,7 @@
     },
     {
       "key": "Auete",
-      "name": "🏝奥特┃无广",
+      "name": "奥特",
       "type": 3,
       "api": "csp_Auete",
       "timeout": 15,
@@ -190,23 +190,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://auete.pro/"
-    },
-    {
-      "key": "push_agent",
-      "name": "❌推送",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "api": "csp_fan",
-      "changeable": 0,
-      "key": "cc",
-      "name": "❌请勿相信视频中任何广告",
-      "quickSearch": 0,
-      "searchable": 0,
-      "type": 3
     }
   ],
   "doh": [
