@@ -71,13 +71,6 @@
       "playerType": 2
     },
     {
-      "key": "发电",
-      "name": "影视仓[发电]",
-      "type": 3,
-      "api": "csp_Fdys",
-      "playerType": 2
-    },
-    {
       "key": "柠檬",
       "name": "影视仓[柠檬]",
       "type": 3,
@@ -93,23 +86,13 @@
       "playerType": 2
     },
     {
-      "key": "鸣人",
-      "name": "影视仓[鸣人]",
-      "type": 1,
-      "api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "playerType": 2
-    },
-    {
       "key": "看看",
       "name": "影视仓[看看]",
       "type": 3,
       "api": "csp_KanKan",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "Bdys_spider",
