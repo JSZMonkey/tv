@@ -2,8 +2,17 @@
 "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;fcc4f15b9364f03772301b23033d0812",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "lives": [
+    
     {
       "name": "IPV4",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6Plus.m3u",
+      "playerType": 1,
+      "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "IPTV",
       "type": 0,
       "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/joevess/IPTV/main/sources/iptv_sources.m3u8",
       "playerType": 1,
