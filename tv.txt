@@ -1,0 +1,6 @@
+{"urls":
+	[
+	{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/JSZMonkey/tv/main/app.json","name":"影视"},
+	{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/动漫/api.json","name":"动漫"}
+	]
+}
