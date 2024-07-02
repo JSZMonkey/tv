@@ -139,20 +139,15 @@ http://148.135.93.213:81/live.php?id=CCTV3-4K
 http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视4K",CCTV-5 体育4K
 http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
-
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视4K",CCTV-2 体育4K
-http://148.135.93.213:81/live.php?id=CCTV2-4K
-
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视4K",CCTV-5 体育4K
 http://148.135.93.213:81/live.php?id=CCTV5-4K
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视4K",CCTV-6 电影4K
 http://148.135.93.213:81/live.php?id=CCTV6-4K
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视4K",CCTV-8 电视剧4K
 http://148.135.93.213:81/live.php?id=CCTV8-4K
-
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视4K",CCTV16-4K
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视4K",CCTV-16 奥林匹克4K
 http://148.135.93.213:81/live.php?id=CCTV16-4K
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视4K",CCTV-16 奥林匹克 4K
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视4K",CCTV-16 奥林匹克4K
 https://pi.0472.org/itv/CCTV-16-4K_8000.m3u8
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视4K",CCTV-4K 超高清
 https://pi.0472.org/itv/ys4Kcq_2000.m3u8
