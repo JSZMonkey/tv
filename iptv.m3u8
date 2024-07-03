@@ -283,6 +283,103 @@ http://221.4.143.70:8114/GD_CUCC/G_SANSHA-HQ.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5
 #EXTINF:-1,tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="卫视频道",三沙卫视
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 
+
+#EXTINF:-1 group-title="江苏频道",南通三套公共频道
+https://nt-hls.ntjoy.com/live/4f5.m3u8?t=1719905863&k=0fa73c05d4505ec577118a8c0b94f45d
+#EXTINF:-1 group-title="江苏频道",南通二套社教频道
+https://nt-hls.ntjoy.com/live/4f3.m3u8?t=1719905863&k=f2992679080aeed729af38f2a21b5791
+#EXTINF:-1 group-title="江苏频道",南通电视台一套
+https://nt-hls.ntjoy.com/live/4f1.m3u8?t=1719904988&k=7a19f7f4a9b0ff207e5900075e72ba88
+#EXTINF:-1 group-title="江苏频道",常州都市频道
+https://livekcz.cztv.tv/kcz/cztv2.m3u8?auth_key=1719912352-0-0-1701a3733429a4f972e0922f7152f626
+#EXTINF:-1 group-title="江苏频道",扬州城市频道
+http://44966c.netsite.cc/proxy/1097047630/1097047630.m3u8
+#EXTINF:-1 group-title="江苏频道",扬州城市频道
+http://ef4b21.netsite.cc/proxy/1097047630/1097047630.m3u8
+#EXTINF:-1 group-title="江苏频道",扬州新闻频道
+http://44966c.netsite.cc/proxy/454285884/454285884.m3u8
+#EXTINF:-1 group-title="江苏频道",扬州新闻频道
+http://cm-wshls.homecdn.com/live/8bb.m3u8
+#EXTINF:-1 group-title="江苏频道",扬州新闻频道
+http://ef4b21.netsite.cc/proxy/454285884/454285884.m3u8
+#EXTINF:-1 group-title="江苏频道",扬州生活频道
+http://44966c.netsite.cc/proxy/1605855413/1605855413.m3u8
+#EXTINF:-1 group-title="江苏频道",扬州生活频道
+http://cm-wshls.homecdn.com/live/8bf.m3u8
+#EXTINF:-1 group-title="江苏频道",扬州生活频道
+http://ef4b21.netsite.cc/proxy/1605855413/1605855413.m3u8
+#EXTINF:-1 group-title="江苏频道",扬州邗江频道
+http://44966c.netsite.cc/proxy/1768394281/1768394281.m3u8
+#EXTINF:-1 group-title="江苏频道",扬州邗江频道
+http://cm-wshls.homecdn.com/live/8c3.m3u8
+#EXTINF:-1 group-title="江苏频道",扬州邗江频道
+http://ef4b21.netsite.cc/proxy/1768394281/1768394281.m3u8
+#EXTINF:-1 group-title="江苏频道",沭阳综合频道
+http://44966c.netsite.cc/proxy/1424907816/1424907816.m3u8
+#EXTINF:-1 group-title="江苏频道",沭阳综合频道
+http://ef4b21.netsite.cc/proxy/1424907816/1424907816.m3u8
+#EXTINF:-1 group-title="江苏频道",泗洪新闻综合频道
+http://44966c.netsite.cc/proxy/39753847/39753847.m3u8
+#EXTINF:-1 group-title="江苏频道",泗洪新闻综合频道
+http://ef4b21.netsite.cc/proxy/39753847/39753847.m3u8
+#EXTINF:-1 group-title="江苏频道",泗阳综合频道
+http://44966c.netsite.cc/proxy/642523244/642523244.m3u8
+#EXTINF:-1 group-title="江苏频道",泗阳综合频道
+http://ef4b21.netsite.cc/proxy/642523244/642523244.m3u8
+#EXTINF:-1 group-title="江苏频道",泗阳资讯频道
+http://44966c.netsite.cc/proxy/1545407523/1545407523.m3u8
+#EXTINF:-1 group-title="江苏频道",泗阳资讯频道
+http://ef4b21.netsite.cc/proxy/1545407523/1545407523.m3u8
+#EXTINF:-1 group-title="江苏频道",泰州一套新闻综合频道
+http://stream1.mytaizhou.net/xwzh/playlist.m3u8?_upt=0ca46ab71719975836
+#EXTINF:-1 group-title="江苏频道",泰州一套新闻综合频道
+http://stream1.mytaizhou.net/xwzh/playlist.m3u8?_upt=637bdc321719106620
+#EXTINF:-1 group-title="江苏频道",泰州三套影视娱乐频道
+http://stream1.mytaizhou.net/ysyl/playlist.m3u8?_upt=01abefbe1719971096
+#EXTINF:-1 group-title="江苏频道",泰州三套影视娱乐频道
+http://stream1.mytaizhou.net/ysyl/playlist.m3u8?_upt=16d36cd11719111128
+#EXTINF:-1 group-title="江苏频道",海安新闻综合频道
+http://44966c.netsite.cc/proxy/1714707715/1714707715.m3u8
+#EXTINF:-1 group-title="江苏频道",海安新闻综合频道
+http://ef4b21.netsite.cc/proxy/1714707715/1714707715.m3u8
+#EXTINF:-1 group-title="江苏频道",涟水电视台综合频道
+http://44966c.netsite.cc/proxy/1977735434/1977735434.m3u8
+#EXTINF:-1 group-title="江苏频道",涟水电视台综合频道
+http://ef4b21.netsite.cc/proxy/1977735434/1977735434.m3u8
+#EXTINF:-1 group-title="江苏频道",睢宁三农频道
+http://44966c.netsite.cc/proxy/1048559039/1048559039.m3u8
+#EXTINF:-1 group-title="江苏频道",睢宁三农频道
+http://ef4b21.netsite.cc/proxy/1048559039/1048559039.m3u8
+#EXTINF:-1 group-title="江苏频道",睢宁生活教育频道
+http://44966c.netsite.cc/proxy/932971465/932971465.m3u8
+#EXTINF:-1 group-title="江苏频道",睢宁生活教育频道
+http://ef4b21.netsite.cc/proxy/932971465/932971465.m3u8
+#EXTINF:-1 group-title="江苏频道",睢宁综合频道
+http://44966c.netsite.cc/proxy/791997735/791997735.m3u8
+#EXTINF:-1 group-title="江苏频道",睢宁综合频道
+http://ef4b21.netsite.cc/proxy/791997735/791997735.m3u8
+#EXTINF:-1 group-title="江苏频道",睢宁资讯频道
+http://44966c.netsite.cc/proxy/1315038794/1315038794.m3u8
+#EXTINF:-1 group-title="江苏频道",睢宁资讯频道
+http://ef4b21.netsite.cc/proxy/1315038794/1315038794.m3u8
+#EXTINF:-1 group-title="江苏频道",连云港公共频道
+http://44966c.netsite.cc/proxy/1479045862/1479045862.m3u8
+#EXTINF:-1 group-title="江苏频道",连云港公共频道
+http://ef4b21.netsite.cc/proxy/1479045862/1479045862.m3u8
+#EXTINF:-1 group-title="江苏频道",连云港公共频道
+http://live.lyg1.com/ggpd/sd/live.m3u8
+#EXTINF:-1 group-title="江苏频道",镇江新闻综合频道
+http://44966c.netsite.cc/proxy/1052067340/1052067340.m3u8
+#EXTINF:-1 group-title="江苏频道",镇江新闻综合频道
+http://cm-wshls.homecdn.com/live/2aa50.m3u8
+#EXTINF:-1 group-title="江苏频道",镇江新闻综合频道
+http://ef4b21.netsite.cc/proxy/1052067340/1052067340.m3u8
+#EXTINF:-1 group-title="江苏频道",高邮一套新闻综合频道
+http://44966c.netsite.cc/proxy/145384285/145384285.m3u8
+#EXTINF:-1 group-title="江苏频道",高邮一套新闻综合频道
+http://ef4b21.netsite.cc/proxy/145384285/145384285.m3u8
+
+
 #EXTINF:-1,tvg-id="爱院线" tvg-name="iHOT爱院线" tvg-logo="https://live.fanmingming.com/tv/IHOT爱院线.png" group-title="IHOT频道",iHOT爱院线
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000034/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000034&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1,tvg-id="爱科幻" tvg-name="iHOT爱科幻" tvg-logo="https://live.fanmingming.com/tv/IHOT爱科幻.png" group-title="IHOT频道",iHOT爱科幻
