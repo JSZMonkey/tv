@@ -1,3 +1,24 @@
+IHOT,#genre#
+
+IHOT爱电竞,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000054
+IHOT爱谍战,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000038
+IHOT爱动漫,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000059
+IHOT爱经典,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000037
+IHOT爱科幻,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000033
+IHOT爱科学,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000047
+IHOT爱浪漫,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000035
+IHOT爱历史,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000046
+IHOT爱旅行,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000056
+IHOT爱奇谈,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000058
+IHOT爱青春,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000041
+IHOT爱赛车,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000055
+IHOT爱体育,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000060
+IHOT爱玩具,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000053
+IHOT爱喜剧,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000032
+IHOT爱悬疑,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000036
+IHOT爱幼教,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000049
+IHOT爱院线,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000034
+
 4K频道,#genre#
 
 CCTV-16 奥林匹克4K,http://148.135.93.213:81/live.php?id=CCTV16-4K
@@ -85,7 +106,3 @@ iHOT爱谍战,http://[2409:8087:5e08:24::12]:6610/000000001000/20000000040000000
 iHOT爱历史,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000046/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000046&IASHttpSessionId=OTT19019320240419154124000281
 iHOT爱科学,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000047/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000047&IASHttpSessionId=OTT19019320240419154124000281
 iHOT爱动漫,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281
-求索动物,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
-求索记录,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
-求索科学,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281
-求索生活,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281
