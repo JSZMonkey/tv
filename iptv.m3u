@@ -631,9 +631,9 @@ http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8
 http://44966c.netsite.cc/proxy/145384285/145384285.m3u8
 #EXTINF:-1 group-title="江苏频道" tvg-id="高邮一套新闻综合频道" tvg-logo="http://ucoss.96189.com/upload/201611/315237581f9866ef2177e9de3675703a.png",高邮一套新闻综合频道
 http://ef4b21.netsite.cc/proxy/145384285/145384285.m3u8
-#EXTINF:-1 group-title="江苏频道" tvg-id="南京十八" tvg-logo="https://epg.112114.xyz/logo/南京十八.png",南京十八
+#EXTINF:-1 group-title="江苏频道" tvg-id="南京十八" tvg-logo="https://epg.112114.free.hr/logo/南京十八.png",南京十八
 http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
-#EXTINF:-1 group-title="江苏频道" tvg-id="南京影视" tvg-logo="https://epg.112114.xyz/logo/南京影视.png",南京影视
+#EXTINF:-1 group-title="江苏频道" tvg-id="南京影视" tvg-logo="https://epg.112114.free.hr/logo/南京影视.png",南京影视
 http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
 
 
