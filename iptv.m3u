@@ -601,37 +601,40 @@ http://220.161.66.36:9999/rtp/239.61.2.146:8864
 http://221.198.182.212:8888/udp/225.1.1.139:5002
 
 
-#EXTINF:-1 group-title="扬州频道" tvg-id="扬州新闻频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0616/20160616104103369.jpg",扬州新闻频道
+#EXTINF:-1 group-title="江苏频道" tvg-id="扬州新闻频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0616/20160616104103369.jpg",扬州新闻频道
 http://cm-wshls.homecdn.com/live/8bb.m3u8
-#EXTINF:-1 group-title="扬州频道" tvg-id="扬州新闻频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0616/20160616104103369.jpg",扬州新闻频道
+#EXTINF:-1 group-title="江苏频道" tvg-id="扬州新闻频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0616/20160616104103369.jpg",扬州新闻频道
 http://44966c.netsite.cc/proxy/454285884/454285884.m3u8
-#EXTINF:-1 group-title="扬州频道" tvg-id="扬州新闻频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0616/20160616104103369.jpg",扬州新闻频道
+#EXTINF:-1 group-title="江苏频道" tvg-id="扬州新闻频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0616/20160616104103369.jpg",扬州新闻频道
 http://ef4b21.netsite.cc/proxy/454285884/454285884.m3u8
-#EXTINF:-1 group-title="扬州频道" tvg-id="扬州城市频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/0911/smallb841adbf1bfe4e2dc6a276e6606f92881505113348.jpg",扬州城市频道
+#EXTINF:-1 group-title="江苏频道" tvg-id="扬州城市频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/0911/smallb841adbf1bfe4e2dc6a276e6606f92881505113348.jpg",扬州城市频道
 http://cm-wshls.homecdn.com/live/8bd.m3u8
-#EXTINF:-1 group-title="扬州频道" tvg-id="扬州城市频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/0911/smallb841adbf1bfe4e2dc6a276e6606f92881505113348.jpg",扬州城市频道
+#EXTINF:-1 group-title="江苏频道" tvg-id="扬州城市频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/0911/smallb841adbf1bfe4e2dc6a276e6606f92881505113348.jpg",扬州城市频道
 http://ef4b21.netsite.cc/proxy/1097047630/1097047630.m3u8
-#EXTINF:-1 group-title="扬州频道" tvg-id="扬州城市频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/0911/smallb841adbf1bfe4e2dc6a276e6606f92881505113348.jpg",扬州城市频道
+#EXTINF:-1 group-title="江苏频道" tvg-id="扬州城市频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/0911/smallb841adbf1bfe4e2dc6a276e6606f92881505113348.jpg",扬州城市频道
 http://44966c.netsite.cc/proxy/1097047630/1097047630.m3u8
-#EXTINF:-1 group-title="扬州频道" tvg-id="扬州生活频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/0911/smallb94f04ceba1968e4d83fa53987cbc3901505113554.jpg",扬州生活频道
+#EXTINF:-1 group-title="江苏频道" tvg-id="扬州生活频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/0911/smallb94f04ceba1968e4d83fa53987cbc3901505113554.jpg",扬州生活频道
 http://cm-wshls.homecdn.com/live/8bf.m3u8
-#EXTINF:-1 group-title="扬州频道" tvg-id="扬州生活频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/0911/smallb94f04ceba1968e4d83fa53987cbc3901505113554.jpg",扬州生活频道
+#EXTINF:-1 group-title="江苏频道" tvg-id="扬州生活频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/0911/smallb94f04ceba1968e4d83fa53987cbc3901505113554.jpg",扬州生活频道
 http://44966c.netsite.cc/proxy/1605855413/1605855413.m3u8
-#EXTINF:-1 group-title="扬州频道" tvg-id="扬州生活频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/0911/smallb94f04ceba1968e4d83fa53987cbc3901505113554.jpg",扬州生活频道
+#EXTINF:-1 group-title="江苏频道" tvg-id="扬州生活频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/0911/smallb94f04ceba1968e4d83fa53987cbc3901505113554.jpg",扬州生活频道
 http://ef4b21.netsite.cc/proxy/1605855413/1605855413.m3u8
-#EXTINF:-1 group-title="扬州频道" tvg-id="扬州邗江频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0710/small5d39a69577b731bbe17776177dea2f241531236297.jpg",扬州邗江频道
+#EXTINF:-1 group-title="江苏频道" tvg-id="扬州邗江频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0710/small5d39a69577b731bbe17776177dea2f241531236297.jpg",扬州邗江频道
 http://cm-wshls.homecdn.com/live/8c3.m3u8
-#EXTINF:-1 group-title="扬州频道" tvg-id="扬州邗江频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0710/small5d39a69577b731bbe17776177dea2f241531236297.jpg",扬州邗江频道
+#EXTINF:-1 group-title="江苏频道" tvg-id="扬州邗江频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0710/small5d39a69577b731bbe17776177dea2f241531236297.jpg",扬州邗江频道
 http://44966c.netsite.cc/proxy/1768394281/1768394281.m3u8
-#EXTINF:-1 group-title="扬州频道" tvg-id="扬州邗江频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0710/small5d39a69577b731bbe17776177dea2f241531236297.jpg",扬州邗江频道
+#EXTINF:-1 group-title="江苏频道" tvg-id="扬州邗江频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0710/small5d39a69577b731bbe17776177dea2f241531236297.jpg",扬州邗江频道
 http://ef4b21.netsite.cc/proxy/1768394281/1768394281.m3u8
-#EXTINF:-1 group-title="扬州频道" tvg-id="高邮一套新闻综合频道" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",高邮一套新闻综合频道
+#EXTINF:-1 group-title="江苏频道" tvg-id="高邮一套新闻综合频道" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",高邮一套新闻综合频道
 http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8
-#EXTINF:-1 group-title="扬州频道" tvg-id="高邮一套新闻综合频道" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",高邮一套新闻综合频道
+#EXTINF:-1 group-title="江苏频道" tvg-id="高邮一套新闻综合频道" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",高邮一套新闻综合频道
 http://44966c.netsite.cc/proxy/145384285/145384285.m3u8
-#EXTINF:-1 group-title="扬州频道" tvg-id="高邮一套新闻综合频道" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",高邮一套新闻综合频道
+#EXTINF:-1 group-title="江苏频道" tvg-id="高邮一套新闻综合频道" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",高邮一套新闻综合频道
 http://ef4b21.netsite.cc/proxy/145384285/145384285.m3u8
-
+#EXTINF:-1 group-title="江苏频道" tvg-id="南京十八" tvg-logo="https://epg.112114.xyz/logo/南京十八.png",南京十八
+http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
+#EXTINF:-1 group-title="江苏频道" tvg-id="南京影视" tvg-logo="https://epg.112114.xyz/logo/南京影视.png",南京影视
+http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
 
 
 
