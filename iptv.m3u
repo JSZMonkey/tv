@@ -644,8 +644,6 @@ http://148.135.93.213:81/live.php?id=CCTV1-4K
 http://148.135.93.213:81/live.php?id=CCTV3-4K
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="4K频道",CCTV-5 体育4K
 http://148.135.93.213:81/live.php?id=CCTV5-4K
-#EXTINF:-1 tvg-id="4K超高清电影" tvg-name="4K超高清电影" tvg-logo="https://live.fanmingming.com/tv/4K电影.png" group-title="4K频道",4K超高清电影
-https://itv.lat/hls?channel=emdy4k_8000&token=240702
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="4K频道",CCTV-6 电影4K
 http://148.135.93.213:81/live.php?id=CCTV6-4K
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="4K频道",CCTV-8 电视剧4K
@@ -655,11 +653,9 @@ http://148.135.93.213:81/live.php?id=CCTV16-4K
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="4K频道",CCTV-16 奥林匹克4K
 https://itv.lat/hls?channel=CCTV-16-4K_8000&token=240702
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="4K频道",CCTV-4K 超高清
-https://itv.lat/hls?channel=ys4Kcq_2000&token=240702
+http://58.216.99.148:80/live2.rxip.sc96655.com/live/ys4Kcq_2000.m3u8
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="4K频道",CCTV-4K 超高清
-https://tv.cry33.com/ys4k.php?id=4k
-#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="4K频道",CCTV-4K 超高清
-http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
 #EXTINF:-1,tvg-id="苏州4K" tvg-name="苏州4K" tvg-logo="https://live.fanmingming.com/tv/苏州4K.png" group-title="4K频道",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1,tvg-id="LoveNature" tvg-name="LoveNature" tvg-logo="https://live.fanmingming.com/tv/LoveNature.png" group-title="4K频道",LoveNature4K
