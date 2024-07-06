@@ -1,43 +1,47 @@
 [
     {
-        "api":"https://www.feidaozy.com/api.php/provide/vod/",
-        "name":"飞刀无广告"
-    },
-    {
         "api": "https://bfzyapi.com/api.php/provide/vod/",
-        "name": "暴风资源无广告"
+        "name": "暴风",
+        "name": "无广告"
     },
     {
         "api": "https://360zy.com/api.php/provide/vod/",
-        "name": "360无广告"
+        "name": "360",
+        "name": "无广告"
     },
     {
-        "name": "乐视无广告",
-        "api": "https://leshiapi.com/api.php/provide/vod/"
+        "api": "https://leshiapi.com/api.php/provide/vod/",
+        "name": "乐视",
+        "note":"无广告"
     },
     {
         "api": "https://json.heimuer.xyz/api.php/provide/vod/",
-        "name": "黑木耳无广告"
+        "name": "黑木耳",
+        "note":"无广告"
     },
     {
-        "name": "非凡资源无广告",
-        "api": "https://cj.ffzyapi.com/api.php/provide/vod/"
+        "api": "https://cj.ffzyapi.com/api.php/provide/vod/",
+        "name": "非凡",
+        "note":"无广告"
     },
     {
         "api": "cms://zxzj",
-        "name": "在线之家无广告"
+        "name": "在线",
+        "note":"无广告"
     },
     {
         "api": "https://cj.lziapi.com/api.php/provide/vod/",
-        "name": "量子资源无广告"
+        "name": "量子",
+        "note":"无广告"
     },
     {
         "api": "cms://ddys",
-        "name": "低端影视无广告"
+        "name": "低端",
+        "note":"无广告"
     },
     {
         "api": "https://hw8.live/api.php/provide/vod/",
-        "name": "海外无广告",
-        "note":"需要代理"
+        "name": "海外",
+        "note":"无广告"
     }
 ]
