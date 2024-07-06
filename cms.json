@@ -2,12 +2,12 @@
     {
         "api": "https://bfzyapi.com/api.php/provide/vod/",
         "name": "暴风",
-        "name": "无广告"
+        "note": "无广告"
     },
     {
         "api": "https://360zy.com/api.php/provide/vod/",
         "name": "360",
-        "name": "无广告"
+        "note": "无广告"
     },
     {
         "api": "https://leshiapi.com/api.php/provide/vod/",
