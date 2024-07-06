@@ -43,5 +43,10 @@
         "api": "https://hw8.live/api.php/provide/vod/",
         "name": "海外",
         "note":"无广告"
+    },
+    {
+        "api":"https://collect.wolongzyw.com/api.php/provide/vod/",
+        "name":"卧龙",
+        "note":"有广告，速度快"
     }
 ]
