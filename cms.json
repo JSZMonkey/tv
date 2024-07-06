@@ -31,4 +31,12 @@
         "name": "官网资源",
         "api": "http://gwcms.cttv.vip/api.php/provide/vod/"
     },
+    {
+        "name": "采集站",
+        "api": "https://ys.540734621.xyz/api.php/provide/vod/"
+    },
+    {
+        "name": "采集站",
+        "api": "    https://api.ylzy.me/api.php/provide/vod/"
+    }
 ]
