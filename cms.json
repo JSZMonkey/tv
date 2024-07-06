@@ -6,6 +6,29 @@
     {
         "name": "乐视",
         "api": "https://leshiapi.com/api.php/provide/vod/"
-    }
-
+    },
+    {
+        "name":"360",
+        "api":"https://360zy.com/api.php/provide/vod/"
+    },
+    {
+        "name":"39",
+        "api":"https://www.39kan.com/api.php/provide/vod/"
+    },
+    {
+        "name": "艾旦影视",
+        "api": "https://lovedan.net/api.php/provide/vod/"
+    },
+    {
+        "name": "八戒资源",
+        "api": "http://cj.bajiecaiji.com/inc/apijson_vod.php"
+    },
+    {
+        "name": "暴风资源",
+        "api": "https://bfzyapi.com/api.php/provide/vod/"
+    },
+    {
+        "name": "官网资源",
+        "api": "http://gwcms.cttv.vip/api.php/provide/vod/"
+    },
 ]
