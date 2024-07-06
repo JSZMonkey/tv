@@ -1,0 +1,11 @@
+[
+    {
+        "name": "快车",
+        "api": "https://caiji.kczyapi.com/api.php/provide/vod/"
+    },
+    {
+        "name": "乐视",
+        "api": "https://leshiapi.com/api.php/provide/vod/"
+    }
+
+]
