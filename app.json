@@ -16,7 +16,28 @@
             "url": "https://xhdwc.tk/xiutan.m3u"
         }
     ],
-    "sites": [{
+    "sites": [
+        {
+            "key": "豆瓣",
+            "name": "豆瓣",
+            "type": 3,
+            "api": "csp_Douban",
+            "searchable": 0
+        },
+        {
+            "key": "配置中心",
+            "name": "配置中心",
+            "type": 3,
+            "api": "csp_Config",
+            "searchable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;5d503b9413e2f2ab1eb547980b170417"
+        },
+        {
             "key": "南瓜弹幕",
             "name": "南瓜弹幕",
             "type": 3,
@@ -160,7 +181,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "order_num": 142,
-            "ext": "./JS/采集之王.js?type=url&params=./JSON/采集静态.json"
+            "ext": "./JS/采集之王.js?type=url&params=./JSON/采集静态.json$1$1"
         },
         {
             "key": "南瓜影视",
@@ -740,47 +761,13 @@
             "ext": "./XYQHiker/奇趣影视.json"
         },
         {
-            "key": "四九资源",
-            "name": "四九资源",
+            "key": "蚂蚁资源",
+            "name": "蚂蚁资源",
             "type": 1,
-            "api": "https://49zyw.com/api.php/provide/vod/",
+            "api": "http://dsakf23665.com/api.php/provide/vod/from/NBY",
             "searchable": 1,
             "changeable": 1,
-            "categories": [
-                "纪录片",
-                "动作片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",
-                "喜剧片",
-                "动画片",
-                "犯罪片",
-                "奇幻片",
-                "灾难片",
-                "悬疑片",
-                "其他片",
-                "欧美剧",
-                "香港剧",
-                "国产剧",
-                "韩国剧",
-                "台湾剧",
-                "泰国剧",
-                "日剧",
-                "海外剧",
-                "国产动漫",
-                "日本动漫",
-                "欧美动漫",
-                "海外动漫",
-                "大陆综艺",
-                "港台综艺",
-                "日韩综艺",
-                "欧美综艺",
-                "电影解说",
-                "体育赛事",
-                "短剧"
-            ]
+            "playUrl": "json:http://121.62.61.51:6888//api//?key=qMdg1EDXPe9NH3bG0z&url="
         },
         {
             "key": "红牛资源",
@@ -1007,9 +994,24 @@
                 "日韩综艺",
                 "欧美综艺"
             ]
+        },
+        {
+            "key": "push_agent",
+            "name": "推送",
+            "type": 3,
+            "api": "csp_Push",
+            "searchable": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt"
+            },
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;5d503b9413e2f2ab1eb547980b170417"
         }
     ],
-    "parses": [{
+    "parses": [
+        {
             "name": "聚合",
             "type": 3,
             "url": "Demo"
@@ -1091,7 +1093,8 @@
             "url": "https://www.ckplayer.vip/jiexi/?url="
         }
     ],
-    "rules": [{
+    "rules": [
+        {
             "name": "量子广告",
             "hosts": [
                 "vip.lz",
@@ -1197,7 +1200,8 @@
             ]
         }
     ],
-    "doh": [{
+    "doh": [
+        {
             "name": "Google",
             "url": "https://dns.google/dns-query",
             "ips": [
@@ -1275,9 +1279,11 @@
         "哔 哩",
         "哔 哩 哔 哩"
     ],
-    "ijk": [{
+    "ijk": [
+        {
             "group": "软解码",
-            "options": [{
+            "options": [
+                {
                     "category": 4,
                     "name": "opensles",
                     "value": "0"
@@ -1356,7 +1362,8 @@
         },
         {
             "group": "硬解码",
-            "options": [{
+            "options": [
+                {
                     "category": 4,
                     "name": "opensles",
                     "value": "0"
