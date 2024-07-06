@@ -29,14 +29,15 @@
     },
     {
         "name": "官网资源",
-        "api": "http://gwcms.cttv.vip/api.php/provide/vod/"
+        "api": "http://gwcms.cttv.vip/api.php/provide/vod/",
+        "note":"需要代理"
     },
     {
         "name": "采集站",
         "api": "https://ys.540734621.xyz/api.php/provide/vod/"
     },
     {
-        "name": "采集站",
-        "api": "    https://api.ylzy.me/api.php/provide/vod/"
+        "name": "鱼乐",
+        "api": "https://api.ylzy.me/api.php/provide/vod/"
     }
 ]
