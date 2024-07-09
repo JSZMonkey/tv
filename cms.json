@@ -1,5 +1,9 @@
 [
     {
+        "name": "映迷",
+        "api": "https://www.inmi.app/api.php/provide/vod/"
+    },
+    {
         "api": "https://bfzyapi.com/api.php/provide/vod/",
         "name": "暴风",
         "note": "无广告"
@@ -306,18 +310,7 @@
         "name": "91md",
         "api": "https://91md.me/api.php/provide/vod/from/mdm3u8/"
     },
-    {
-        "name": "映迷",
-        "api": "https://www.inmi.app/api.php/provide/vod/"
-    },
-    {
-        "name": "可可资源",
-        "api": "https://caiji.kekezyapi.com/api.php/provide/vod/"
-    },
-    {
-        "name": "极速资源",
-        "api": "https://jszy.tv/api.php/provide/vod/"
-    },
+
     {
         "name": "虎牙资源",
         "api": "https://www.huyaapi.com/api.php/provide/vod/"
@@ -327,28 +320,8 @@
         "api": "http://sdzyapi.com/api.php/provide/vod/"
     },
     {
-        "name": "小猫咪2",
-        "api": "http://zy.rryy.tv/api.php/provide/vod/"
-    },
-    {
-        "name": "木子看剧",
-        "api": "https://mzkj.maccms.cf/api.php/provide/vod/"
-    },
-    {
         "name": "小猫咪",
         "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/"
-    },
-    {
-        "name": "小猫咪",
-        "api": "https://106.12.153.187/api.php/provide/vod/"
-    },
-    {
-        "name": "阿远采集",
-        "api": "https://www.cjzy.xyz:8888/api.php/provide/vod/"
-    },
-    {
-        "name": "极速BT资源",
-        "api": "https://api.jisubt.com/videos"
     },
     {
         "name": "步步高资源",
@@ -356,12 +329,9 @@
     },
     {
         "name": "金鹰资源",
-        "api": "http://jinyingzy.com/provide/vod"
+        "api": "https://jyzyapi.com/provide/vod/"
     },
-    {
-        "name": "蓝天资源",
-        "api": "https://api.ltzyapi.com/api.php/provide/vod/"
-    },
+
     {
         "name": "1080资源库",
         "api": "https://api.1080zyku.com/inc/api_mac10.php"
