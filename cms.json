@@ -1,1 +1,79 @@
-[{"api":"https://leshiapi.com/api.php/provide/vod/","note":"无广告","name":"乐视"},{"note":"无广告","name":"黑木耳","api":"https://json.heimuer.xyz/api.php/provide/vod/"},{"name":"1080资源库","api":"https://api.1080zyku.com/inc/api_mac10.php"},{"name":"低端","note":"无广告","api":"cms://ddys"},{"name":"量子","api":"https://cj.lziapi.com/api.php/provide/vod/","note":"无广告"},{"note":"无广告","name":"暴风","api":"https://bfzyapi.com/api.php/provide/vod/"},{"api":"cms://zxzj","name":"在线","note":"无广告"},{"note":"无广告","api":"https://cj.ffzyapi.com/api.php/provide/vod/","name":"非凡"},{"name":"海外","note":"无广告","api":"https://hw8.live/api.php/provide/vod/"},{"note":"无广告","api":"https://360zy.com/api.php/provide/vod/","name":"360"},{"name":"八戒资源","api":"http://cj.bajiecaiji.com/inc/apijson_vod.php"},{"name":"紅牛資源","api":"https://www.hongniuzy2.com/api.php/provide/vod/"},{"api":"https://api.yparse.com/api/json","name":"步步高资源"},{"name":"S91md","api":"https://91md.me/api.php/provide/vod/"},{"name":"S森林资源","api":"https://slapibf.com/api.php/provide/vod/"},{"api":"https://api.apilyzy.com/api.php/provide/vod/","name":"S老鸭资源"},{"api":"https://aosikazy.com/api.php/provide/vod/","name":"S奥斯卡资源"}]
+[
+    {
+        "api": "https://leshiapi.com/api.php/provide/vod/",
+        "note": "无广告",
+        "name": "乐视"
+    },
+    {
+        "note": "无广告",
+        "name": "黑木耳",
+        "api": "https://json.heimuer.xyz/api.php/provide/vod/"
+    },
+    {
+        "name": "1080资源库",
+        "api": "https://api.1080zyku.com/inc/api_mac10.php"
+    },
+    {
+        "name": "低端",
+        "note": "无广告",
+        "api": "cms://ddys"
+    },
+    {
+        "name": "量子",
+        "api": "https://cj.lziapi.com/api.php/provide/vod/",
+        "note": "无广告"
+    },
+    {
+        "note": "无广告",
+        "name": "暴风",
+        "api": "https://bfzyapi.com/api.php/provide/vod/"
+    },
+    {
+        "api": "cms://zxzj",
+        "name": "在线",
+        "note": "无广告"
+    },
+    {
+        "note": "无广告",
+        "api": "https://cj.ffzyapi.com/api.php/provide/vod/",
+        "name": "非凡"
+    },
+    {
+        "name": "海外",
+        "note": "无广告",
+        "api": "https://hw8.live/api.php/provide/vod/"
+    },
+    {
+        "note": "无广告",
+        "api": "https://360zy.com/api.php/provide/vod/",
+        "name": "360"
+    },
+    {
+        "name": "八戒资源",
+        "api": "http://cj.bajiecaiji.com/inc/apijson_vod.php"
+    },
+    {
+        "name": "紅牛資源",
+        "api": "https://www.hongniuzy2.com/api.php/provide/vod/"
+    },
+    {
+        "api": "https://api.yparse.com/api/json",
+        "name": "步步高资源"
+    },
+    {
+        "name": "S91md",
+        "api": "https://91md.me/api.php/provide/vod/"
+    },
+    {
+        "name": "S森林资源",
+        "api": "https://slapibf.com/api.php/provide/vod/"
+    },
+    {
+        "api": "https://api.apilyzy.com/api.php/provide/vod/",
+        "name": "S老鸭资源"
+    },
+    {
+        "api": "https://aosikazy.com/api.php/provide/vod/",
+        "name": "S奥斯卡资源"
+    }
+]
