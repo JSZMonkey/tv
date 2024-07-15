@@ -1,6 +1,6 @@
 {"urls":
 	[
-	{"url":"https://raw.gitmirror.com/PizazzGY/TVBox_warehouse/main/影视/app.json","name":"影视"},
+	{"url":"https://raw.gitmirror.com/PizazzGY/TVBox_warehouse/main/影视/api.json","name":"影视"},
 	{"url":"https://raw.gitmirror.com/PizazzGY/TVBox_warehouse/main/动漫/api.json","name":"动漫"}
 	]
 }
