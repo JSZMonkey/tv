@@ -1,10 +1,5 @@
 [
     {
-        "api": "http://caiji.ikum.cc:8099/api.php/provide/vod/",
-        "note": "无广告",
-        "name": "iKuMiao"
-    },
-    {
         "note": "无广告",
         "name": "黑木耳",
         "api": "https://json.heimuer.xyz/api.php/provide/vod/"
