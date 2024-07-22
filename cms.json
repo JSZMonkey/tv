@@ -1,8 +1,8 @@
 [
     {
-        "api": "https://leshiapi.com/api.php/provide/vod/",
+        "api": "http://caiji.ikum.cc:8099/api.php/provide/vod/",
         "note": "无广告",
-        "name": "乐视"
+        "name": "iKuMiao"
     },
     {
         "note": "无广告",
@@ -47,6 +47,11 @@
         "note": "无广告",
         "api": "https://360zy.com/api.php/provide/vod/",
         "name": "360"
+    },
+    {
+        "note":"无广告",
+        "api":"http://zyz.ikum.cc:1214/api.php/provide/vod/",
+        "name":"TIMI蓝光"
     },
     {
         "name": "八戒资源",
