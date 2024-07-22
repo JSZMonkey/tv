@@ -1,83 +1,64 @@
 [
     {
+        "name": "4K 电影馆",
+        "api": "http://4kdyg.fun/api.php/provide/vod/"
+    },
+    {
+        "api": "http://ysm.tkbot.fun/api.php/provide/vod/",
+        "name": "影视猫"
+    },
+    {
+        "name": "二次萌",
+        "api": "https://www.ecmys.com/api.php/provide/vod/"
+    },
+    {
+        "name": "TIMI 蓝光",
+        "api": "http://zyz.ikum.cc:1214/api.php/provide/vod/"
+    },
+    {
         "note": "无广告",
-        "name": "黑木耳",
-        "api": "https://json.heimuer.xyz/api.php/provide/vod/"
+        "api": "https://json.heimuer.xyz/api.php/provide/vod/",
+        "name": "黑木耳"
     },
     {
-        "name": "1080资源库",
-        "api": "https://api.1080zyku.com/inc/api_mac10.php"
+        "api": "https://api.1080zyku.com/inc/api_mac10.php",
+        "name": "1080资源库"
     },
     {
-        "name": "低端",
         "note": "无广告",
-        "api": "cms://ddys"
+        "api": "cms://ddys",
+        "name": "低端"
     },
     {
-        "name": "量子",
         "api": "https://cj.lziapi.com/api.php/provide/vod/",
-        "note": "无广告"
-    },
-    {
         "note": "无广告",
-        "name": "暴风",
-        "api": "https://bfzyapi.com/api.php/provide/vod/"
+        "name": "量子"
     },
     {
-        "api": "cms://zxzj",
+        "api": "https://bfzyapi.com/api.php/provide/vod/",
+        "note": "无广告",
+        "name": "暴风"
+    },
+    {
         "name": "在线",
-        "note": "无广告"
-    },
-    {
         "note": "无广告",
-        "api": "https://cj.ffzyapi.com/api.php/provide/vod/",
-        "name": "非凡"
+        "api": "cms://zxzj"
     },
     {
-        "name": "海外",
+        "api": "https://hw8.live/api.php/provide/vod/",
         "note": "无广告",
-        "api": "https://hw8.live/api.php/provide/vod/"
-    },
-    {
-        "note": "无广告",
-        "api": "https://360zy.com/api.php/provide/vod/",
-        "name": "360"
-    },
-    {
-        "note":"无广告",
-        "api":"http://zyz.ikum.cc:1214/api.php/provide/vod/",
-        "name":"TIMI蓝光"
+        "name": "海外"
     },
     {
         "name": "八戒资源",
         "api": "http://cj.bajiecaiji.com/inc/apijson_vod.php"
     },
     {
-        "name": "紅牛資源",
-        "api": "https://www.hongniuzy2.com/api.php/provide/vod/"
+        "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+        "name": "紅牛資源"
     },
     {
-        "api": "https://api.yparse.com/api/json",
-        "name": "步步高资源"
-    },
-    {
-        "name": "S91md",
-        "api": "https://91md.me/api.php/provide/vod/"
-    },
-    {
-        "name": "S森林资源",
-        "api": "https://slapibf.com/api.php/provide/vod/"
-    },
-    {
-        "api": "https://api.apilyzy.com/api.php/provide/vod/",
-        "name": "S老鸭资源"
-    },
-    {
-        "api": "https://aosikazy.com/api.php/provide/vod/",
-        "name": "S奥斯卡资源"
-    },
-    {
-        "api": "https://www.ecmys.com/api.php/provide/vod/",
-        "name": "二次萌"
+        "name": "步步高资源",
+        "api": "https://api.yparse.com/api/json"
     }
 ]
