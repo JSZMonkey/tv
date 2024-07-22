@@ -75,5 +75,9 @@
     {
         "api": "https://aosikazy.com/api.php/provide/vod/",
         "name": "S奥斯卡资源"
+    },
+    {
+        "api": "https://www.ecmys.com/api.php/provide/vod/",
+        "name": "二次萌"
     }
 ]
