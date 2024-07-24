@@ -9,4 +9,4 @@ https://github.com/kimwang1978/collect-tv-txt/
 
 https://raw.gitmirror.com/redrainl/iptv/main/speedtest/zubo.txt
 
-https://github.com/balala2oo8/iptv/o.m3u
+[https://github.com/balala2oo8/iptv/o.m3u](https://github.com/balala2oo8/iptv/blob/main/o.m3u)
