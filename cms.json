@@ -8,10 +8,6 @@
         "api": "https://www.ecmys.com/api.php/provide/vod/"
     },
     {
-        "name": "TIMI 蓝光",
-        "api": "http://zyz.ikum.cc:1214/api.php/provide/vod/"
-    },
-    {
         "note": "无广告",
         "api": "https://heimuer.tv/api.php/provide/vod/",
         "name": "黑木耳"
