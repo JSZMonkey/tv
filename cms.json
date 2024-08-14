@@ -1,9 +1,5 @@
 [
     {
-        "name": "4K 电影馆",
-        "api": "http://4kdyg.fun/api.php/provide/vod/"
-    },
-    {
         "api": "http://ysm.tkbot.fun/api.php/provide/vod/",
         "name": "影视猫"
     },
@@ -56,9 +52,5 @@
     {
         "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
         "name": "紅牛資源"
-    },
-    {
-        "name": "步步高资源",
-        "api": "https://api.yparse.com/api/json"
     }
 ]
