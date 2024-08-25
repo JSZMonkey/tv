@@ -30,11 +30,6 @@
         "note": "无广告"
     },
     {
-        "api": "http://ysm.tkbot.fun/api.php/provide/vod/",
-        "name": "影视猫",
-        "note": "无广告"
-    },
-    {
         "api": "https://www.ecmys.com/api.php/provide/vod/",
         "name": "二次萌",
         "note": "无广告"
