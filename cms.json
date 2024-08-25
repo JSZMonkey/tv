@@ -73,15 +73,5 @@
         "api": "http://cj.bajiecaiji.com/inc/apijson_vod.php",
         "name": "八戒资源",
         "note": "无广告"
-    },
-    {
-        "name": "紅牛資源",
-        "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
-        "note": "无广告"
-    },
-    {
-        "api": "https://api.yparse.com/api/json",
-        "name": "步步高资源",
-        "note": "无广告"
     }
 ]
