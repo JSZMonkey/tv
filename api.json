@@ -10,7 +10,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitee.com/wgq332/tvt/raw/master/token.txt"
+            "ext": "https://gitee.com/wgq332/tvt/raw/master/token.txt",
+            "jar":"https://gitee.com/wgq332/tvt/raw/master/fantaiying/fan20230526.jar;md5;f89c43655a15d4964c38573649a56702"
         },
         {
             "key": "影视",
