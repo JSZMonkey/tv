@@ -6,7 +6,7 @@
             "key": "TIMI蓝光",
             "name": "TIMI蓝光",
             "type": 1,
-            "api": "http://zyz.ikum.cc:1214/api.php/provide/vod/",
+            "api": "http://caiji.sgyflv.icu:2526/api.php/provide/vod/",
             "searchable": 1,
             "changeable": 1,
             "categories": [
@@ -14,7 +14,8 @@
                 "连续剧",
                 "综艺",
                 "动漫",
-                "短剧"
+                "儿童",
+                "哔哩哔哩"
             ]
         },
         {
