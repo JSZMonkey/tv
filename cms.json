@@ -40,11 +40,6 @@
         "note": "无广告"
     },
     {
-        "api": "cms://ddys",
-        "name": "低端",
-        "note": "无广告"
-    },
-    {
         "note": "无广告",
         "name": "量子",
         "api": "https://cj.lziapi.com/api.php/provide/vod/"
