@@ -2,6 +2,15 @@
     "spider": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;20d2ee18388ea23295700d9cfb6648c8",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
+         {
+            "key": "资源API",
+            "name": "资源API｜采集",
+            "type": 1,
+            "api": "http://caiji.ikum.cc:8099/api.php/provide/vod/",
+            "searchable": 1,
+            "changeable": 1
+        },
+        
         {
             "key": "豆瓣",
             "name": "公众号｜四次元分享",
