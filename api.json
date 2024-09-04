@@ -230,7 +230,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": " http://122.228.85.203:1000/api.php/app/"
+            "ext": "http://122.228.85.203:1000/api.php/app/"
         },
         {
             "key": "丘丘影视",
@@ -241,7 +241,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": " http://111.173.115.204:2211/api.php/app/"
+            "ext": "http://111.173.115.204:2211/api.php/app/"
         },
         {
             "key": "南瓜影视",
