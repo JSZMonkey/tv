@@ -1,7 +1,15 @@
 {
     "spider": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;5263cb4e5f6d2ca968940edc6e935faf",
     "wallpaper": "https://api.likepoems.com/img/bing",
-    "sites": [      
+    "sites": [
+        {
+            "key": "小猫咪",
+            "name": "小猫咪",
+            "type": 1,
+            "api": "http://zy.xiaomaomi.tv/api.php/provide/vod/",
+            "searchable": 1,
+            "changeable": 1
+        },
         {
             "key": "豆瓣",
             "name": "公众号｜四次元分享",
