@@ -6,7 +6,7 @@
             "key": "小猫咪",
             "name": "小猫咪",
             "type": 1,
-            "api": "http://zy.xiaomaomi.tv/api.php/provide/vod/",
+            "api": "https://vipcj.timizy.top/api.php/provide/vod/",
             "searchable": 1,
             "changeable": 1
         },
