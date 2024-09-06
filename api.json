@@ -3,14 +3,6 @@
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
-            "key": "TIMI",
-            "name": "TIMI",
-            "type": 1,
-            "api": "https://vipcj.timizy.top/api.php/provide/vod/",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
             "key": "豆瓣",
             "name": "公众号｜四次元分享",
             "type": 3,
