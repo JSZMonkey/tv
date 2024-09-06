@@ -3,8 +3,8 @@
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
-            "key": "小猫咪",
-            "name": "小猫咪",
+            "key": "TIMI",
+            "name": "TIMI",
             "type": 1,
             "api": "https://vipcj.timizy.top/api.php/provide/vod/",
             "searchable": 1,
