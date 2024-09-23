@@ -1,38 +1,69 @@
 [
     {
-        "name": "黑木耳",
-        "note": "无广告",
-        "api": "https://json02.heimuer.xyz/api.php/provide/vod/"
+        "name": "快看",
+        "api": "https://kuaikan-api.com/api.php/provide/vod/"
     },
     {
-        "name": "非凡",
-        "note": "无广告",
-        "api": "https://cj.ffzyapi.com/api.php/provide/vod/"
+        "name": "钵钵鸡",
+        "api": "https://api.bobojizy.me/api.php/provide/vod/"
     },
     {
-        "api": "https://hw8.live/api.php/provide/vod/",
+        "name": "3",
+        "api": "https://apisesehuzy.com/api.php/provide/vod/"
+    },
+    {
+        "name": "1",
+        "api": "https://jk1.yycmszywapi.cc/api.php/provide/vod/"
+    },
+    {
+        "api": "https://www.jingpinx.com/api.php/provide/vod/",
+        "name": "4"
+    },
+    {
+        "name": "5",
+        "api": "https://apilsbzy1.com/api.php/provide/vod/"
+    },
+    {
+        "api": "https://lbapi9.com/api.php/provide/vod/",
+        "name": "6"
+    },
+    {
+        "name": "2",
+        "api": "https://thzy1.me/api.php/provide/vod/"
+    },
+    {
+        "api": "https://json02.heimuer.xyz/api.php/provide/vod/",
+        "name": "黑木耳"
+    },
+    {
+        "note": "无广告",
+        "api": "https://cj.ffzyapi.com/api.php/provide/vod/",
+        "name": "非凡"
+    },
+    {
         "name": "海外",
+        "api": "https://hw8.live/api.php/provide/vod/",
         "note": "无广告"
     },
     {
+        "name": "二次萌",
         "note": "无广告",
-        "api": "https://www.ecmys.com/api.php/provide/vod/",
-        "name": "二次萌"
+        "api": "https://www.ecmys.com/api.php/provide/vod/"
+    },
+    {
+        "api": "cms://zxzj",
+        "note": "无广告",
+        "name": "在线"
     },
     {
         "note": "无广告",
-        "name": "在线",
-        "api": "cms://zxzj"
-    },
-    {
         "name": "魔都",
-        "api": "https://caiji.moduapi.cc/api.php/provide/vod/",
-        "note": "无广告"
+        "api": "https://caiji.moduapi.cc/api.php/provide/vod/"
     },
     {
-        "name": "量子",
+        "note": "无广告",
         "api": "https://cj.lziapi.com/api.php/provide/vod/",
-        "note": "无广告"
+        "name": "量子"
     },
     {
         "name": "1080资源库",
@@ -41,31 +72,27 @@
     },
     {
         "name": "八戒资源",
-        "note": "无广告",
-        "api": "http://cj.bajiecaiji.com/inc/apijson_vod.php"
-    },
-    {
-        "name": "ikun",
-        "note": "无广告",
-        "api": "https://ikunzyapi.com/api.php/provide/vod/"
+        "api": "http://cj.bajiecaiji.com/inc/apijson_vod.php",
+        "note": "无广告"
     },
     {
         "note": "无广告",
+        "api": "https://ikunzyapi.com/api.php/provide/vod/",
+        "name": "ikun"
+    },
+    {
         "name": "墨斗",
-        "api": "https://www.mdzyapi.com/api.php/provide/vod/"
-    },
-    {
-        "name": "暴风",
-        "note": "无广告",
-        "api": "https://bfzyapi.com/api.php/provide/vod/"
+        "api": "https://www.mdzyapi.com/api.php/provide/vod/",
+        "note": "无广告"
     },
     {
         "note": "无广告",
+        "api": "https://bfzyapi.com/api.php/provide/vod/",
+        "name": "暴风"
+    },
+    {
         "api": "https://360zy.com/api.php/provide/vod/",
-        "name": "360"
-    },
-    {
-        "name": "测试",
-        "api": "https://155api.com/api.php/provide/vod/"
+        "name": "360",
+        "note": "无广告"
     }
 ]
