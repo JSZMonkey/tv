@@ -3,13 +3,13 @@
 http://58.220.219.14:9901/tsfile/live/0001_1.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://epg.iill.top/logo/CCTV2.png" group-title="央视",CCTV2-财经
 http://58.220.219.14:9901/tsfile/live/0002_1.m3u8
-#EXTINF:-1,CCTV3-综艺
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://epg.iill.top/logo/CCTV3.png" group-title="央视",CCTV3-综艺
 http://58.220.219.14:9901/tsfile/live/0003_1.m3u8
-#EXTINF:-1,CCTV4-国际
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://epg.iill.top/logo/CCTV4.png" group-title="央视",CCTV4-国际
 http://58.220.219.14:9901/tsfile/live/0004_1.m3u8
-#EXTINF:-1,CCTV5-体育
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://epg.iill.top/logo/CCTV5.png" group-title="央视",CCTV5-体育
 http://58.220.219.14:9901/tsfile/live/0005_1.m3u8
-#EXTINF:-1,CCTV6-电影
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.iill.top/logo/CCTV6.png" group-title="央视",CCTV6-电影
 http://58.220.219.14:9901/tsfile/live/0006_1.m3u8
 #EXTINF:-1,CCTV7-军农
 http://58.220.219.14:9901/tsfile/live/0007_1.m3u8
