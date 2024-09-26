@@ -1,6 +1,7 @@
-#EXTINF:-1,CCTV1-综合
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml.gz,https://assets.livednow.com/epg.xml"
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" group-title="央视",CCTV1-综合
 http://58.220.219.14:9901/tsfile/live/0001_1.m3u8
-#EXTINF:-1,CCTV2-财经
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://epg.iill.top/logo/CCTV2.png" group-title="央视",CCTV2-财经
 http://58.220.219.14:9901/tsfile/live/0002_1.m3u8
 #EXTINF:-1,CCTV3-综艺
 http://58.220.219.14:9901/tsfile/live/0003_1.m3u8
